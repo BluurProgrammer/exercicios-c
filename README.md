@@ -1,5 +1,6 @@
+# Exercícios Linguagens de programação em C
 
-# EXERCÍCIOS DE PROGRAMAÇÃO EM C
+![teste](http://www.aptechsp.com.br/wp-content/uploads/2015/04/linguagem-C.png)
 
-# REGRAS
-Para cada lista de exercício pode ou não haver regras a serem seguidas para a resolução da lista.
+## Leia as Regras!
+   Para cada lista de exercício, conterá uma regra para resolver a lista.
