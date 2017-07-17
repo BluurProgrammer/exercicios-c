@@ -1,6 +1,5 @@
-![Linguagem C] (http://www.aptechsp.com.br/wp-content/uploads/2015/04/linguagem-C.png)
 
-# EXERCÕCIOS DE PROGRAMA«√O EM C
+# EXERC√çCIOS DE PROGRAMA√á√ÉO EM C
 
 # REGRAS
-Para cada lista de exercÌcio pode ou n„o haver regras a serem seguidas para a resoluÁ„o da lista.
+Para cada lista de exerc√≠cio pode ou n√£o haver regras a serem seguidas para a resolu√ß√£o da lista.
