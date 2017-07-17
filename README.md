@@ -1,4 +1,4 @@
-![Linguagem C] (http://www.aptechsp.com.br/wp-content/uploads/2015/04/linguagem-C.png)
+ (http://www.aptechsp.com.br/wp-content/uploads/2015/04/linguagem-C.png)
 
 # EXERCÍCIOS DE PROGRAMAÇÃO EM C
 
