@@ -1,0 +1,1 @@
+Não usar: Ponteiros ou Alocação dinâmica.
